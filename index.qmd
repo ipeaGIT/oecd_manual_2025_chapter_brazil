@@ -1,0 +1,28 @@
+---
+author:
+  - name: Rafael H. M. Pereira
+    orcid: "0000-0003-2125-7465"
+    affiliations:
+      - name: "Ipea - Institute for Applied Economic Research"
+    url: "https://www.urbandemographics.org/about/"
+---
+
+# Preface {.unnumbered}
+
+Accessibility is the ease with which people can reach places and opportunities such as jobs, health and education services, cultural activities, green areas, etc. The accessibility conditions of a city or neighborhood depend on the efficiency and connectivity of the transport network and on the proximity between people and activities. The topic of accessibility has been receiving increased attention from transportation agencies, funding institutions, decision makers and researchers in the fields of urban and transport planning [@papa2015accessibility; @boisjoly2017how]. In the last few years, we have seen a growing number of scientific papers [@miller2018accessibility; @vanwee2021transport] and books [@levine2019mobility; @levinson2020transport] that deepen our understanding of urban accessibility issues. However, there are currently no books or articles that serve simultaneously as introductory material to the subject and as a practical manual to teach computational methods to calculate and analyze accessibility data. The lack of this type of material helps to explain, at least in part, why several transportation agencies and analysts still face challenges to incorporate accessibility issues and indicators into the day-to-day planning and research practice [@silva2017accessibility; @buttner2021accessibility].
+
+The aim of this book is to equip its readers with the fundamental concepts, the data analysis skills and the processing tools needed to perform urban accessibility analyses and transportation projects impact assessments. The book was written with the problems faced by public managers, policy makers, students and researchers working on urban and transportation planning in mind. Hence, the book is essentially practical. All the material in the book is presented with reproducible examples using open datasets and the [R](https://www.r-project.org/) programming language.
+
+::: {.callout-important appearance="simple"}
+This book assumes the reader has a basic knowledge of the R programming language. If you want to familiarize yourself with it, we recommend the books below:
+
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [Geocomputation with R](https://geocompr.robinlovelace.net/)
+- [Data Science in R](https://livro.curso-r.com/) (in Portuguese)
+:::
+
+## Book structure
+
+This book is divided into 5 sections, as follows.
+
+ test

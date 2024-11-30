@@ -1,0 +1,43 @@
+project:
+  type: book
+
+execute:
+  freeze: auto
+
+lang: en
+book:
+  title: "OECD book title"
+  date: today
+  language: en
+  publisher: "OECD"
+  site-url: https://gitlab.com/
+  repo-url: https://gitlab.com/ 
+  repo-branch: main
+
+
+  chapters:
+    - index.qmd
+    - part: 10_section_countries.qmd
+      chapters:
+        - 15_brazil_aopdata.qmd
+    - references.en.qmd
+
+  page-navigation: true
+
+
+bibliography: references.bib
+
+fig-dpi: 300
+
+editor_options:
+  markdown:
+    wrap: 80
+    canonical: true
+
+theme:
+  light: cosmo
+  dark: superhero
+  
+
+
+google-scholar: true

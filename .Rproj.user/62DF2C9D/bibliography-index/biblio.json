@@ -1,0 +1,405 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Brodsky",
+                    "given": "Isaac"
+                }
+            ],
+            "container-title": "Uber Engineering Blog",
+            "id": "brodsky2018h3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "https://eng.uber.com/h3/",
+            "title": "H3: Uber’s Hexagonal Hierarchical Spatial Index",
+            "title-short": "H3",
+            "type": ""
+        },
+        {
+            "DOI": "10.1080/01441647.2016.1257660",
+            "ISSN": "0144-1647, 1464-5327",
+            "abstract": "Over the past decades, transport researchers and policy-makers have devoted increasing attention to questions about justice and equity. Nonetheless, there is still little engagement with theories in political philosophy to frame what justice means in the context of transport policies. This paper reviews key theories of justice (utilitarianism, libertarianism, intuitionism, Rawls’ egalitarianism, and Capability Approaches (CAs)) and critically evaluates the insights they generate when applied to transport. Based on a combination of Rawlsian and CAs, we propose that distributive justice concerns over transport disadvantage and social exclusion should focus primarily on accessibility as a human capability. This means that, in policy evaluation, a detailed analysis of the distributional effects of transport policies should take account of the setting of minimum standards of accessibility to key destinations and the extent to which these policies respect individuals’ rights and prioritise disadvantaged groups, reduce inequalities of opportunities, and mitigate transport externalities. A full account of justice in transportation requires a more complete understanding of accessibility than traditional approaches have been able to deliver to date.",
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Schwanen",
+                    "given": "Tim"
+                },
+                {
+                    "family": "Banister",
+                    "given": "David"
+                }
+            ],
+            "container-title": "Transport Reviews",
+            "id": "pereira2017distributive",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "170-191",
+            "title": "Distributive justice and equity in transportation",
+            "type": "article-journal",
+            "volume": "37"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Braga",
+                    "given": "Carlos Kaue Vieira"
+                },
+                {
+                    "family": "Serra",
+                    "given": "Bernardo"
+                },
+                {
+                    "family": "Nadalin",
+                    "given": "Vanessa"
+                }
+            ],
+            "genre": "{Texto para Discuss\\~ao}",
+            "id": "pereira2019desigualdades",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "language": "pt-PT",
+            "number": "2535",
+            "publisher": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+            "title": "Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019",
+            "type": "report"
+        },
+        {
+            "DOI": "10.32866/001c.21262",
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Saraiva",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Herszenhut",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Braga",
+                    "given": "Carlos Kaue Vieira"
+                },
+                {
+                    "family": "Conway",
+                    "given": "Matthew Wigginton"
+                }
+            ],
+            "container-title": "Transport Findings",
+            "id": "pereira2021r5r",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "21262",
+            "publisher": "Network Design Lab",
+            "title": "R5r: Rapid Realistic Routing on Multimodal Transport Networks with R<sup>5</sup> in R",
+            "title-short": "R5r",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/B978-0-08-102671-7.10053-3",
+            "ISBN": "978-0-08-102672-4",
+            "abstract": "Transportation equity is a way to frame distributive justice concerns in relation to how social, economic, and government institutions shape the distribution of transportation benefits and burdens in society. It focuses on the evaluative standards used to judge the differential impacts of policies and plans, asking who benefits from and is burdened by them and to what extent. Questions of transportation equity involve both sufficientarian and egalitarian concerns with both absolute levels of wellbeing, transport-related poverty and social exclusion as well as with relative levels of transport-related inequalities. Ultimately, the study of transport equity explores the multiple channels through which transport and land use policies can create conditions for more inclusive cities and transport systems that allow different people to flourish, to satisfy their basic needs and lead a meaningful life. Transportation equity issues broadly encompass how policy decisions shape societal levels of environmental externalities and what groups are more or less exposed to them, as well as how those decisions affect the lives of different groups in terms of their ability to access life-enhancing opportunities such as employment, healthcare, and education. Equity is a crucial part of a broader concern with transport and mobility justice. The call for transport justice goes beyond distributive concerns, and yet justice cannot be achieved withoutequity.",
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Karner",
+                    "given": "Alex"
+                }
+            ],
+            "container-title": "International Encyclopedia of Transportation",
+            "editor": [
+                {
+                    "family": "Vickerman",
+                    "given": "Roger"
+                }
+            ],
+            "id": "pereira2021transportation",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "Distributive justice,Egalitarianism,Environmental justice,Externalities,Mobility justice,Social exclusion,Social justice,Sufficientarianism,Transport disadvantage,Transport inequality,Transport justice,Transport poverty,Transportation equity",
+            "language": "en-US",
+            "page": "271-277",
+            "publisher": "Elsevier",
+            "publisher-place": "Oxford",
+            "title": "Transportation Equity",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Herszenhut",
+                    "given": "Daniel"
+                }
+            ],
+            "id": "pereira2022accessibility",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "publisher-place": "CRAN",
+            "title": "Accessibility: Transport Accessibility Measures",
+            "title-short": "Accessibility",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Herszenhut",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Braga",
+                    "given": "Carlos K. V."
+                },
+                {
+                    "family": "Tomasiello",
+                    "given": "Diego B."
+                },
+                {
+                    "family": "Saraiva",
+                    "given": "Marcus"
+                }
+            ],
+            "id": "pereira2022aopdata",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "publisher-place": "CRAN",
+            "title": "Aopdata: Data from the Access to Opportunities Project",
+            "title-short": "Aopdata",
+            "type": ""
+        },
+        {
+            "DOI": "10.38116/td2772",
+            "ISSN": "ISSN 1415-4765",
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Herszenhut",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Braga",
+                    "given": "Carlos Kauê Vieira"
+                },
+                {
+                    "family": "Bazzo",
+                    "given": "João Pedro"
+                },
+                {
+                    "family": "Oliveira",
+                    "given": "João Lucas Albuquerque"
+                },
+                {
+                    "family": "Parga",
+                    "given": "João Pedro"
+                },
+                {
+                    "family": "Saraiva",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Silva",
+                    "given": "Luiz Pedro"
+                },
+                {
+                    "family": "Warwar",
+                    "given": "Lucas"
+                },
+                {
+                    "family": "Tomasiello",
+                    "given": "Diego Bogado"
+                }
+            ],
+            "container-title": "Texto para Discussão IPEA",
+            "id": "pereira2022distribuicao",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6
+                    ]
+                ]
+            },
+            "language": "pt-PT",
+            "other-ids": "pereira2022distribuicaoa",
+            "page": "28",
+            "publisher": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+            "title": "Distribuição espacial de características sociodemográficas e localização de empregos e serviços públicos das vinte maiores cidades do Brasil",
+            "type": "article-journal",
+            "volume": "2772"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Braga",
+                    "given": "Carlos Kauê Vieira"
+                },
+                {
+                    "family": "Herszenhut",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Saraiva",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Tomasiello",
+                    "given": "Diego Bogado"
+                }
+            ],
+            "container-title": "Texto para Discussão IPEA",
+            "id": "pereira2022estimativas",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "language": "pt-PT",
+            "publisher": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+            "title": "Estimativas de acessibilidade a empregos e serviços públicos via transporte ativo, público e privado nas 20 maiores cidades do Brasil em 2017, 2018, 2019",
+            "type": "article-journal",
+            "volume": "2800"
+        },
+        {
+            "DOI": "10.1007/s10109-022-00400-x",
+            "ISSN": "1435-5949",
+            "abstract": "The creation of the General Transit Feed Specification (GTFS) in the mid-2000s provided a new data format for cities to organize and share digital information on their public transport systems. GTFS feeds store geolocated data on public transport networks, including information on routes, stops, timetables, and service levels. The GTFS standard is now widely adopted by thousands of transport authorities and a wide variety of software applications for different purposes, including trip planning, timetable creation and accessibility analysis. Yet, there is still a lack of tools to parse GTFS data when the objective is to analyze the complex spatial and temporal patterns of public transport systems. This paper presents {gtfs2gps}, a new general-purpose computational tool to easily process static GTFS data that allows one to analyze the spacetime trajectories of public transport vehicles at fine spatial and temporal resolutions. {gtfs2gps} is an open-source R package that employs parallel computing to convert GTFS feeds from relational text files into a trajectory data table, similar to GPS records, with the timestamps of vehicles in every trip. This paper explains the package functionalities and demonstrates how {gtfs2gps} can be used to articulate key concepts in time geography to explore and visualize the spatial and temporal patterns of public transport networks. We also present a case study looking at how {gtfs2gps} can be used to examine socioeconomic and spatialtemporal inequalities in access to public transport, providing key information to monitor cities’ progress toward the Sustainable Development Goals. The paper is accompanied by a computational notebook in R Markdown to support reproducibility of the results in this paper and to replicate the analysis for other contexts where GTFS data are available. Given the widespread use of GTFS, {gtfs2gps} opens new possibilities for researchers to examine the time geography of public transport systems in urban areas across the globe.",
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Rafael H. M."
+                },
+                {
+                    "family": "Andrade",
+                    "given": "Pedro R."
+                },
+                {
+                    "family": "Vieira",
+                    "given": "João Pedro Bazzo"
+                }
+            ],
+            "container-title": "Journal of Geographical Systems",
+            "id": "pereira2022exploringa",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Exploring the time geography of public transport networks with the Gtfs2gps package",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Saraiva",
+                    "given": "Marcus"
+                },
+                {
+                    "family": "Silva",
+                    "given": "Luiz Pedro"
+                },
+                {
+                    "family": "Braga",
+                    "given": "Carlos Kauê Vieira"
+                },
+                {
+                    "family": "Pereira",
+                    "given": "Rafael Henrique Moraes"
+                }
+            ],
+            "genre": "{Texto para Discuss\\~ao}",
+            "id": "saraiva2023transporte",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "language": "pt-PT",
+            "number": "2854",
+            "publisher": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+            "title": "Transporte urbano e insuficiência de acesso a escolas no Brasil",
+            "type": "report"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}
